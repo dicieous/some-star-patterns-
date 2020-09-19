@@ -1,1 +1,1 @@
-# some-star-patterns-
+# C Star Patterns
